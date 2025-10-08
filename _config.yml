@@ -6,34 +6,34 @@ favicon: images/favicon.ico
 version: 2
 
 # Personal info
-name: Brett Harris
-title: Senior Network System Administrator
-email: brett.h@email.co.uk
-website: www.github.com/sproogen/resume-theme
+name: Trokhymenko Vladyslav
+title: Unreal Engime Gameplay Programmer
+email: mrsadtxxx999@gmail.com
+website: https://mrsadt.github.io/Portfolio
 
 # Dark Mode (true/false/never)
-darkmode: false
+darkmode: true
 
 # Social links
-twitter_username: facespics
-github_username:  sproogen
+twitter_username: -
+github_username:  mrsadt
 # stackoverflow_username: "00000001"
-# dribbble_username: jekyll
-# facebook_username: jekyll
-# flickr_username: jekyll
-instagram_username: jameswgrant
-linkedin_username: jameswgrant
-# xing_username: jekyll
-# pinterest_username: jekyll
-youtube_username: globalmtb
-# googleplus_username: +jekyll
+# dribbble_username: -
+# facebook_username: -
+# flickr_username: -
+instagram_username: -
+linkedin_username: -
+# xing_username: -
+# pinterest_username: -
+youtube_username: MrSadT_
+# googleplus_username: +-
 # orcid_username: 0000-0000-0000-0000
 
 # Additional icon links
 additional_links:
-- title: itsgoingto.be
+- title: itch.io
   icon: fas fa-globe
-  url: https://www.itsgoingto.be
+  url: https://itch.io/profile/mrsadt
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
 #   url: Link url (eg. https://google.com)
@@ -48,69 +48,72 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Brett and I'm a senior network system administrator. As well as administrating systems I also have experience making software and web apps. I have worked at a number of companies gaining teamwork and leadership skills.
+  Hi, my name's Vlad and I'm a 17 y.o. unreal engine gameplay programmer. I also have experience making scripts, 3d and 2d.  I have only worked for one company, where I acquired teamwork and responsibility skills.
 
-  I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
+  I have a strong understanding : <mark>Unreal Engine Core<mark> / modules, reflection, <mark>Perforce<mark>, <mark>Git<mark> ,<mark>C++ / Blueprints<mark>, <mark>Multiplayer<mark>, <mark>Gameplay Ability System<mark>,  
+  <mark>AnimationBlueprint<mark> / <mark>IK<mark> / <mark>Control Rig<mark>,  <mark>UMG / Widgets<mark>, <mark>BehaviorTree<mark>,
+  some<mark> materials<mark> and <mark>3d modeling<mark>.
 
 content:
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
-        title: Super awesome project
-        link: github.com/sproogen
+        title: Example of work
+        link: github.com/MrSadT/UE5-Interaction-system-for-multiplayer-via-GAS
         # link_text: Project Website
         additional_links:
-          - title:  sproogen/modern-resume-theme
+          - title:  UE5-Interaction-system-for-multiplayer-via-GAS
             icon: fab fa-github
-            url: github.com/sproogen/modern-resume-theme
+            url: github.com/MrSadT/UE5-Interaction-system-for-multiplayer-via-GAS
           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         quote: >
-          This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+          This is probably one of the best and simple system for interaction for FPS and TPS projects
         description: | # this will include new lines to allow paragraphs
-          I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
+          I started this project as a way if learning <mark>GAS</mark> and it has since grown into one of the best and simple interaction system. 
+          I have learned many skills through this and been I'm very proud of having this in my portfolio. If you need interaction in your project I would advise you to use this one.
 
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: The Boring Company
-        link: boringcompany.com
+        title: Bashies&BivouacGames
+        link: bashiesbivouacgames.itch.io
         # link_text: boringcompany.com
-        sub_title: Senior Network System Administrator
-        caption: November 2017 - Present
+        sub_title: Gameplay Programmer
+        caption: July 2025 - October 2025
         quote: >
-          Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
+          Working in a small indie team of passionate developers, I focus on gameplay programming and systems design.
         description: | # this will include new lines to allow paragraphs
-            Every company needs its networks properly administered and The Boring Compay is no exception. Digging holes is hard and I play my part making sure the whole company stays connected. I lead a team of 5 people and enjoy driving the company to try new technologies.
+            My main responsibilities include implementing player mechanics, AI behaviors, etc in Unreal Engine. I enjoy solving creative technical challenges and bringing unique gameplay ideas to life through code.
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: Harvard University
-        caption: 2010 - 2013
-        sub_title: BSc Computer Science
+        title: Self-Taught Developer
+        caption: 2021 - Present
+        sub_title: Online Learning & Personal Projects
         quote: >
-          Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
+          I started with C# and Unity, but realized it wasn't for me and switched to Unreal Engine.
         description: | # this will include new lines to allow paragraphs
-          During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
-
-          I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
+          After discovering my passion for game development, I began teaching myself programming and game design through online courses, documentation, and community projects.
+          
+          This self-driven approach taught me discipline, problem solving, and how to learn new technologies quickly.
 
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
-      Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-      - Rock climbing
-      - Gaming
-      - Knitting
-      - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
+      Outside of coding and experimenting with new gameplay ideas, I’m also interested in:
+      - Server-side development and backend logic for multiplayer systems
+      - Unix-based environments and shell scripting
+      - Networking protocols, optimization, and server management
+      - Performance profiling and debugging tools
+      - Automation and CI/CD pipelines for game builds
 
-      Look at this cool image  
-      ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
+      "I love turning ideas into something you can play."
 
 # Footer
 footer_show_references: true
